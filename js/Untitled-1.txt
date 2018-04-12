@@ -1,0 +1,20 @@
+# Visual studio code #
+Visual studio code is source code editor in which we can write our codes according to the language. Visual studio code is developed by Microsoft. It is very useful code editor for the developers, in this they can find their small mistakes.  
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png)
+
+## Description ##
+
+Visual Studio Code was announced on April 29, 2015 by Microsoft at the 2015.
+On November 18, 2015, Visual studio code was released under MIT license.
+
+## Installation ##
+
+It supports a number of programming languages and a set of features that may or may not be available for a given language, as shown in the following table. Many of Visual Studio Code features are not exposed through menus or the user interface. 
+
+## Usage ##
+
+Create ae new file, for example you want to make Javascript file.
+
+* First add your stuff into it.
+* 

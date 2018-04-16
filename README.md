@@ -21,5 +21,12 @@ The game board consists of 16 cards arranged in a deck. The deck is made up of 8
 * A user must select 2 cards at a time.
 * Mismatched cards will be turned over, and the user must select a new pair of cards.
 * Once all 8 pairs are matched, the user is prompted to play again.
-* The player is moves depending on how many moves are made.
-* Time is kept from when the user makes his/her first selection
+* The moves are depending on how many moves are made.
+
+#### Issues/Planned Changes/Roadmap:
+
+The main issue with my game is that the timer is not working. The player cannot open three cards together in one turn. I am trying to add timer and shuffle option in this game.
+
+#### Author:
+
+Himanshu Bisht

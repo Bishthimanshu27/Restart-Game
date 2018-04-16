@@ -16,3 +16,10 @@ Restart your game as many as times you want.
 
 #### How to Guide:
 
+The game board consists of 16 cards arranged in a deck. The deck is made up of 8 pairs of cards, each with different symbols on one side.
+
+* A user must select 2 cards at a time.
+* Mismatched cards will be turned over, and the user must select a new pair of cards.
+* Once all 8 pairs are matched, the user is prompted to play again.
+* The player is moves depending on how many moves are made.
+* Time is kept from when the user makes his/her first selection
